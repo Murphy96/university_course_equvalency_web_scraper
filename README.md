@@ -26,7 +26,7 @@ a feature unavailable on the target website.
 
 ## Discussion: Thoughts on the Process, Claude as a Tool, Morality of Scraping in General 
 
-- (To be fleshed out)
+- *work in progress* (To be fleshed out)
 - Claude made it very easy to have something working, scraping, and getting results without having to think about any repercussions.
 - Claude made many assumptions about the site and generated huge chunks of code based on simple assumptions that weren't valid.
 - Claude added "data validation' features that broke code and didn't hold to the data, readded them later even after being asked to remove them.
